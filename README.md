@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Yasmin 👋
+
+:mag_right: I'm looking for a job as a junior developer.
 
 <!--
 **YasminAzar/YasminAzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
